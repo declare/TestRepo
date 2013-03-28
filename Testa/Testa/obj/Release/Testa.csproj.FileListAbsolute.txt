@@ -1,0 +1,5 @@
+C:\gittest\TestRepo\Testa\Testa\bin\Release\Testa.dll
+C:\gittest\TestRepo\Testa\Testa\bin\Release\Testa.pdb
+C:\gittest\TestRepo\Testa\Testa\obj\Release\Testa.csprojResolveAssemblyReference.cache
+C:\gittest\TestRepo\Testa\Testa\obj\Release\Testa.dll
+C:\gittest\TestRepo\Testa\Testa\obj\Release\Testa.pdb
